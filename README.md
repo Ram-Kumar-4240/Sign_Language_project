@@ -1,4 +1,4 @@
-#Delovping Sign language prediction using mediapipe model and own data
+# Delovping Sign language prediction using mediapipe model and own data
 
 https://github.com/Ram-Kumar-4240/Sign_Language_project/assets/167958959/d08d65e9-8361-4f82-818b-2b7e4588a169
 
